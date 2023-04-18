@@ -1,0 +1,12 @@
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\bin\Debug\net6.0\Library.deps.json
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\bin\Debug\net6.0\Library.dll
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\bin\Debug\net6.0\Library.pdb
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.dll
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\refint\Library.dll
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\Library.pdb
+C:\Users\charl\Desktop\Project-COMP559\OnScreen\obj\Debug\net6.0\ref\Library.dll
