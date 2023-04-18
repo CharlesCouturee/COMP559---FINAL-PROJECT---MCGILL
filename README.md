@@ -3,7 +3,8 @@
  Follow these steps to run the program:
  
 OPTION 1: 
-          -Click on the icon "code" in green and then click "Open with Visual Code". \n
+          -Click on the icon "code" in green and then click "Open with Visual Code". 
+          
           -You should then be able to run the program with the debugger (if there are builds error just ignore them and continue running the program).
           
 OPTION 2:
