@@ -1,6 +1,6 @@
 ﻿# COMP559---FINAL-PROJECT---MCGILL
  
- Follow these steps to run the program:
+ Follow these steps to run the program (make sure you already installed Visual Code on your machine):
  
 OPTION 1: 
           -Click on the icon "code" in green and then click "Open with Visual Code". You should then be able to run the program with the debugger (if there are building errors just ignore them and continue running the program).
