@@ -7,3 +7,17 @@ OPTION 1:
           
 OPTION 2:
           -Download the code in Zip File and then extract the "Project-COMP559" folder to your desktop. Open this folder with Visual Code and you should be able to run it with the debugger. If there are building errors ignore them and continue running the program.
+          
+          
+Here are some Mouse/Keyboard commands you can use to test the program:
+
+R = Remove all objects from screen.  
+
+T = Test #1.
+
+Y = Test #2.
+
+U = Test #3.
+
+I = Test #4.
+
