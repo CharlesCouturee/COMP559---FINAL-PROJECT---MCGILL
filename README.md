@@ -21,3 +21,7 @@ U = Test #3.
 
 I = Test #4.
 
+Left Click = Create a Square Body.
+
+Right Click = Create a Circle Body.
+
